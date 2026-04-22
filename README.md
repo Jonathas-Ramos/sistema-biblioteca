@@ -45,7 +45,7 @@ JDK 25 instalado.
 MongoDB instalado e rodando localmente na porta 27017.
 
 Executando a Aplicação
-Clone o repositório.
+Baixe o sistema-biblioteca.zip.
 
 Abra o projeto no Apache NetBeans.
 
