@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="diagrama geral" src="https://github.com/user-attachments/assets/2c53646d-f54f-466d-baf8-6a95b7883805" />
+
 📚 Sistema de Gestão de Biblioteca - Java Spring Boot
 Este projeto é uma aplicação Full-Stack desenvolvida para gerenciar o fluxo operacional de uma biblioteca. Ele foi construído para demonstrar a aplicação prática de conceitos de arquitetura MVC, persistência em bancos de dados NoSQL e o desenvolvimento de interfaces dinâmicas com Thymeleaf.
 
